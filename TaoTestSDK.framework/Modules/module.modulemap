@@ -1,0 +1,6 @@
+framework module TaoTestSDK {
+  umbrella header "TaoTestSDK.h"
+
+  export *
+  module * { export * }
+}
